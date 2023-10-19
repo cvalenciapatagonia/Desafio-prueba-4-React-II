@@ -1,0 +1,14 @@
+.navbar {
+  background-color: rgb(66, 72, 189);
+  display: flex;
+  justify-content: space-around;
+}
+
+.logo-link,
+.cart-link {
+  text-decoration: none;
+  color: white;
+}
+.brand-logo {
+  margin-right: 19em;
+}

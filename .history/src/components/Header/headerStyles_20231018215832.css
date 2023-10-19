@@ -1,0 +1,12 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url(https://sharpsburgpizza.com/wp-content/uploads/2021/03/pizzeria-template-menu-header-img-bg.jpg);
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el contenedor */
+    background-position: center; /* Centra la imagen en el contenedor */
+    height: 19em;
+  }
+  

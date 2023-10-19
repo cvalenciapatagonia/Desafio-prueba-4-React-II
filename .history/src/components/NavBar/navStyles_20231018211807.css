@@ -1,0 +1,14 @@
+.navbar{
+    background-color: rgb(66, 72, 189);
+    display: flex;
+    justify-content: space-around;
+}
+
+.brand-logo{
+    margin: 0;
+    color: white;
+}
+
+.total-amount{
+    color: white;
+}

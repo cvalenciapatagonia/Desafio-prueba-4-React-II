@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url(../../assets/img/Header-photo.png);
+    background-position: center; /* Centra la imagen en el contenedor */
+    height: 19em;
+  }

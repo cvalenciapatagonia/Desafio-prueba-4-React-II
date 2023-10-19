@@ -1,0 +1,12 @@
+.navbar {
+  background-color: rgb(66, 72, 189);
+  display: flex;
+  justify-content: space-around;
+}
+
+.brand-logo {
+  margin-right: 19em;
+  color: white;
+  ;
+}
+

@@ -1,0 +1,10 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background-image: url(https://img.freepik.com/premium-photo/slice-pizza-with-black-background_111797-1826.jpg?w=1380);
+  background-position: right;
+  height: 19em;
+}
