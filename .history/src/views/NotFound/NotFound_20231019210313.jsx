@@ -6,7 +6,7 @@ export default function NotFound() {
   return (
     <div className="error-container"> 
       <div>
-        <img className="error-img" src="src/assets/img/Error404.png" alt="." />
+        <img className="error-img" src="..src/assets/img/Error404.png" alt="." />
       </div>
       <div>
         <Link to="/Desafio-prueba-4-React-II/home">

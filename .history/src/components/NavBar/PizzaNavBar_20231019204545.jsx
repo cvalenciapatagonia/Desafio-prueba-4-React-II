@@ -15,7 +15,7 @@ export default function Navbar() {
   return (
     <div className="navbar">
       <div className="brand-container">
-        <Link to="/Desafio-prueba-4-React-II/home" className="logo-link">
+        <Link to="/Desafio-prueba-4-React-II" className="logo-link">
           <h4 className="brand-logo">
             <span className="logo-pizza">🍕</span>Pizzería Mamma Mia!
           </h4>

@@ -13,7 +13,7 @@ function App() {
         <Routes>
           <Route index path="/Desafio-prueba-4-React-II/" element={<Home />} />
           <Route path="/Desafio-prueba-4-React-II/home" element={<Home />} />
-          <Route path="/Desafio-prueba-4-React-II/pizza/:id" element={<PizzaDetail />} />
+          <Route path="/Desafio-prueba-4-React-II/home/pizza/:id" element={<PizzaDetail />} />
           <Route path="/Desafio-prueba-4-React-II/cart" element={<Cart />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

@@ -10,8 +10,7 @@ const PizzasProvider = ({ children }) => {
 
   // Obtener las pizzas
   const getPizzas = async () => {
-    const res = await fetch("https://raw.githubusercontent.com/cvalenciapatagonia/Desafio-prueba-4-React-II/main/public/pizzas.json"); //Codigo original se remite al origen local en public, sin embargo lo adapto para su visualizacion en gh pages
-    // const res = await fetch("/pizzas.json"); ==> Este era el codigo original con origen local.
+    const res = await fetch("/pizzas.json");
     const pizzas = await res.json();
     setPizzas(pizzas);
   };
